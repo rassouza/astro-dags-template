@@ -7,7 +7,7 @@ from datetime import datetime
 
 @task
 def hello_world():
-    print("Hello World - testing MBA IA")
+    print("Hello World - testing MBA IA  - 18122025")
 
 @dag(
     dag_id='hello_world',
